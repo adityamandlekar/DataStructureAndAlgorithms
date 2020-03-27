@@ -1,4 +1,4 @@
-package nimahi.java.DAS.divideAndConquer.Fibonacci;
+package nimahi.java.DAS.divideAndConquer.fibonaci;
 
 public class Fibonacci_DC {
 
