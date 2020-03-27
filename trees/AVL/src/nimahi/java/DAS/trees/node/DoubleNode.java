@@ -1,4 +1,4 @@
-package nimhai.java.DAS.trees.node;
+package nimahi.java.DAS.trees.node;
 
 
 public class DoubleNode {
